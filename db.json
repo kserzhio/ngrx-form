@@ -1,0 +1,11 @@
+{
+  "cars": [
+    {
+      "name": "Audi",
+      "date": "20.05.20",
+      "model": "A4",
+      "isSold": false,
+      "id": 4
+    }
+  ]
+}
